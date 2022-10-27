@@ -1,2 +1,2 @@
-new line
+ExtraNewLine
 experiment with amend
