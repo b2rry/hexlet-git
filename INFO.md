@@ -1,5 +1,0 @@
-ExtraNewLine
-experiment with amend
-changeFirst
-changeSecond
-changeThird
